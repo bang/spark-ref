@@ -1,2 +1,9 @@
 .ipynb_checkpoints/
 .idea/
+.bash_history
+.cache/
+.ipython/
+.jupyter/
+.local/
+.python_history
+
